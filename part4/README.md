@@ -1,3 +1,4 @@
+```
 bloglist/
 ├── controllers/                # Contains route controllers
 │   ├── blogs.js
@@ -21,3 +22,4 @@ bloglist/
 ├── index.js                    # Entry point - starts the server and connects to DB
 ├── package-lock.json
 ├── package.json
+```
