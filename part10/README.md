@@ -198,3 +198,7 @@ The red color used in this implementation is `#d73a4a`.
 ## Exercise 10.10: a platform-specific font
 
 Currently, the font family of our application is set to System in the theme configuration located in the theme.js file. Instead of the System font, use a platform-specific [Sans-serif](https://en.wikipedia.org/wiki/Sans-serif) font. On the Android platform, use the Roboto font and on the iOS platform, use the Arial font. The default font can be System.
+
+## ...
+
+由于版本问题，part10暂停
