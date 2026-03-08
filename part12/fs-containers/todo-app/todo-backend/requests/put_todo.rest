@@ -1,0 +1,7 @@
+PUT http://localhost:3000/todos/69aba95a1c83fcd46ee92ddd
+Content-Type: application/json
+
+{
+    "text": "Logicff's Blog",
+    "done": true
+}
